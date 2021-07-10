@@ -1,0 +1,23 @@
+{
+  "name": "CricInfo-IPL-WebScraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitkumar892001/CricInfo-IPL-WebScraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankitkumar892001/CricInfo-IPL-WebScraper/issues"
+  },
+  "homepage": "https://github.com/ankitkumar892001/CricInfo-IPL-WebScraper#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}

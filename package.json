@@ -19,6 +19,7 @@
   "homepage": "https://github.com/ankitkumar892001/CricInfo-IPL-WebScraper#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.10",
-    "request": "^2.88.2"
+    "request": "^2.88.2",
+    "xlsx": "^0.17.0"
   }
 }

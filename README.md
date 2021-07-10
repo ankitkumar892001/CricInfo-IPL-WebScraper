@@ -3,5 +3,3 @@
 #### CHEERIO is used to extract data out of it    
 #### Node.js FS module is used to create directories of each team and     
 #### XLSX module is used to create excel files for each player    
-
-
